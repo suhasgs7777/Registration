@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registration</string>
+    <string-array name="branch">
+        <item> C.S.E</item>
+        <item>I.S.E</item>
+        <item> E.C.E</item>
+        <item> MECHANICAL</item>
+    </string-array>
+    <string-array name="Location">
+        <item>Bangalore</item>
+        <item>Davanagere</item>
+        <item> Mysuru </item>
+        <item>Kolar</item>
+    </string-array>
+    <string-array name="Department">
+        <item>Administrative</item>
+        <item>H.R</item>
+        <item> Production </item>
+        <item> Operations</item>
+    </string-array>
+</resources>
